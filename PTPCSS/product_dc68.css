@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#wrapper #topcontent {
+	height: 200px;
+	width: 894px;
+	margin-left: 133px;
+	margin-top: 50px;
+}
+#wrapper #content .content1 {
+	height: 380px;
+	width: 894px;
+	margin-right: 133px;
+	margin-left: 133px;
+}
+#wrapper #content .content1 .content2 {
+	height: 380px;
+	width: 250px;
+	float: left;
+	position: relative;
+}
+#wrapper #content .content1 .content3 {
+	float: right;
+	height: 380px;
+	width: 644px;
+	position: relative;
+}
+#wrapper #content .content1 .content4 {
+	height: 380px;
+	width: 450px;
+	float: left;
+	position: relative;
+}
+#wrapper #content .content1 .content5 {
+	height: 380px;
+	width: 444px;
+	float: right;
+	position: relative;
+}
+#wrapper #content .content1 .content5 p {
+	font-size: 20px;
+	font-weight: bolder;
+	margin-top: 0px;
+}
+#wrapper #content .content1 .content4 table {
+	margin-top: 50px;
+	margin-left: 50px;
+}
+#wrapper #content .content1 .content5 p2 {
+	color: #800000;
+}
+#wrapper #content .content1 .content2 img {
+	margin-top: 60px;
+	margin-left: 40px;
+}
+
+
+
+#wrapper #content {
+	height: 900px;
+	width: 1160px;
+}

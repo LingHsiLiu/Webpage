@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+
+
+/* content  */
+
+#wrapper #content {
+	height: 470px;
+	width: 1160px;
+}
+#wrapper #content .tab-content {
+	height: auto;
+	width: 1160px;
+}
+#wrapper #content .tab-content h2 {
+	margin-left: 133px;
+}
+#wrapper #maincontent {
+	height: 450px;
+	width: 1160px;
+}
+#wrapper #maincontent .tab-content h1 {
+	text-align: center;
+}
+#wrapper #maincontent .tab-content h2 {
+	margin-left: 133px;
+}
+#wrapper #maincontent .tab-content .maincontenttable {
+	margin-left: 133px;
+	margin-right: 120px;
+}
+#wrapper #maincontent .tab-content .maincontenttable .maincontenttr .maincontenttd1 {
+	width: 300px;
+	float: left;
+	height: 130px;
+	text-align: left;
+}
+
+
+#wrapper #content .tab-content p {
+	margin-left: 133px;
+	margin-right: 105px;
+}
+#wrapper #maincontent .tab-content .maincontenttable .maincontenttr .maincontenttd2 {
+	height: 130px;
+}
+#wrapper #maincontent .tab-content .maincontenttable .maincontenttr .maincontenttd1 p {
+	text-align: center;
+	margin-top: 30px;
+}
+#wrapper #maincontent .tab-content .maincontenttable .maincontenttr .maincontenttd2 p1 {
+	text-align: justify;
+}
+#wrapper #maincontent .tab-content p {
+}
+#wrapper #maincontent .tab-content p4 {
+}
+#wrapper #maincontent .tab-content .mvladdress {
+	margin-left: 133px;
+	margin-right: 133px;
+}

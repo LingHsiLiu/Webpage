@@ -1,0 +1,188 @@
+@charset "utf-8";
+
+
+a {cursor:pointer;}
+a img {border:none; margin:0; padding:0;}
+a:link {color:#2a4cdc; text-decoration:none;}
+a:visited {
+	color:#2a4cdc;
+	text-decoration:none;
+}
+a:hover {
+	color:#F00;
+	text-decoration:none;
+}
+a:active {
+	color:#F00;
+	text-decoration:none;
+}
+
+
+
+
+#wrapper {
+	height: auto;
+	width: 1160px;
+	border-right-width: 4px;
+	border-left-width: 4px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #000000;
+	border-left-color: #000000;
+	border-bottom-width: 4px;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+	border-top-width: 4px;
+	border-top-style: solid;
+	border-top-color: #000000;
+	margin: auto;
+}
+#wrapper #banner {
+	height: 91px;
+	width: 1160px;
+	background:url(../PTPImages/The-Utimate-in-Fire-Protection.jpg);
+	
+	background-repeat: no-repeat;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-left-width: 2px;
+	border-top-style: none;
+	border-right-style: none;
+	border-left-style: none;
+	border-top-color: #000000;
+	border-right-color: #000000;
+	border-left-color: #000000;
+}
+
+
+
+/* footer */
+#footer {
+	height: 120px;
+	width: 1160px;
+	background-color: #000000;
+	background:url(../PTPImages/footerbackgroup2.jpg);
+}
+
+
+#footer #footertable {
+	display: table;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	padding-top: 10px;
+	padding-left: 50px;
+}
+#footer #footertable .footertr {
+	display: table-row;
+}
+#footer #footertable .footertr .footertd {
+	display: table-cell;
+	text-align: left;
+	height: 26px;
+	width: 115px;
+	font-size: 14px;
+	padding-top: 3px;
+	padding-left: 3px;
+	color: #FFFFFF;
+}
+
+
+#footer #footertable2 {
+	display: table;
+	text-align: center;
+	width: 1160px;
+	padding-bottom: 5px;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 10px;
+	color: #FFFFFF;
+	padding-top: 15px;
+}
+#footer #footertable2 .footertr2 {
+	display: table-row;
+	text-align: center;
+}
+#footer #footertable2 .footertr2 .footertd2 {
+	display: table-cell;
+	text-align: center;
+}
+#wrapper #footer #footertable .footertr .footertd a {
+	color: #FFFFFF;
+	text-align: left;
+}
+
+
+/* footer */
+
+
+/* navbar */
+
+
+
+#wrapper #navbar {
+	height: 57px;
+	width: 1160px;
+/*	background-color: #999999; */
+}
+
+nav { 
+	height:57px; padding:0px 0 0 133px;
+	display: block;
+    float: left;
+    width: 1027px;
+    margin-bottom: 0px; 
+	text-align:center; 
+	z-index:50; 
+	background-image: url(../PTPImages/Navbackgroup.jpg);
+	
+	/*background-color: #999999; */         
+}
+
+.nav ul{
+    margin: 0;
+    padding: 0;
+	Height: 57px;
+}
+.nav li{
+	position: relative;
+	padding:0px, 0px, 0px, 0px;
+	float: left;
+	color: #000000;
+	list-style: none;
+	background-color: #999999;
+	width: 125px;
+	Height: 57px;
+	text-align:center;
+	text-vertical-align:middle;
+	font-size: 12px;
+	z-index:30;
+}
+.nav li a {
+    display: block;        
+    padding: 20px 0px 0px 0px;
+    color: #000000;
+    text-decoration: none;
+	z-index:30;
+}
+ 
+.nav li:hover {
+	background-color: #CCCCCC;
+}
+.nav li ul {
+    background-color: rgba(231, 124, 64, 1);
+    display: none;
+    position: absolute;
+    top: 100%;
+	z-index:30;
+}
+.nav li:hover ul {
+    display: block;
+    right: 0;
+    left: 0;
+    top: 100%;
+}
+.toggle { 
+    display: none;
+}
+
+/* end navbar */

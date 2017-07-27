@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#wrapper #topcontent {
+	height: 250px;
+	width: 1160px;
+}
+#wrapper #content {
+	height: 750px;
+	width: 1160px;
+}
+#wrapper #content .contentbox {
+	height: 250px;
+	width: 1160px;
+}
+#wrapper #content .contentbox .leftcontent {
+	float: left;
+	height: 250px;
+	width: 350px;
+}
+#wrapper #content .contentbox .rightcontent {
+	float: left;
+	height: 250px;
+	width: 810px;
+}
+#wrapper #content .contentbox .leftcontent .productimg {
+	margin-left: 120px;
+	height: 210px;
+	width: 166px;
+	margin-right: 64px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#wrapper #content .contentbox .rightcontent p {
+	width: 680px;
+	text-align: justify;
+	margin-top: 75px;
+}
+#wrapper #topcontent .producttop {
+	height: 147px;
+	width: 906px;
+	margin-top: 55px;
+	margin-right: 127px;
+	margin-left: 127px;
+}

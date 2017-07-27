@@ -1,0 +1,64 @@
+#wrapper #content .maindocument {
+	height: 120px;
+	width: 1160px;
+}
+#wrapper #content .maindocument .documentcontent .documentbox p {
+	text-align: justify;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+}
+
+#wrapper #content .title {
+	margin-left: 133px;
+	color: #800000;
+	font-size: 24px;
+	width: 1027px;
+}
+#wrapper #content .maincontent .contentbox .contentdetail {
+	height: 245px;
+	width: 265px;
+	margin-left: 50px;
+	float: left;
+}
+#wrapper #content .maindocument .documentcontent {
+	margin-left: 83px;
+	height: 120px;
+}
+#wrapper #content .maindocument .documentcontent .documentbox {
+	margin-left: 50px;
+	height: 120px;
+	width: 265px;
+	float: left;
+}
+
+#wrapper #content .maincontent .contentbox {
+	margin-left: 83px;
+	height: 245px;
+}
+#wrapper #content .mainvideo {
+	height: 350px;
+	width: 1160px;
+}
+#wrapper #content .mainvideo .contentvideo {
+	height: 350px;
+	margin-left: 79px;
+}
+#wrapper #content .mainvideo .contentvideo .videobox {
+	height: 315px;
+	margin-left: 54px;
+	width: 420px;
+	float: left;
+}
+
+#wrapper #content .maincontent {
+	height: 245px;
+	width: 1160px;
+}
+#wrapper #content {
+	width: 1160px;
+	height: auto;
+}
+#wrapper #content .morespace {
+	height: 50px;
+	width: 1160px;
+}

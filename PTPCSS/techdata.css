@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+#wrapper #content {
+	height: 750px;
+	width: 1160px;
+}
+#wrapper #content .topcontent {
+	height: 250px;
+	width: 1160px;
+}
+#wrapper #content .topcontent .toppicture {
+	height: 200px;
+	margin-right: 133px;
+	margin-left: 133px;
+	margin-top: 50px;
+}
+#wrapper #content .topcontent .toppicture .techimage1 {
+	float: left;
+}
+#wrapper #content .topcontent .toppicture .techimage2 {
+	float: right;
+}
+#wrapper #content .maincontent {
+	height: 400px;
+	width: 1160px;
+}
+#wrapper #content .maincontent .content1 {
+	height: 400px;
+	width: 966px;
+	margin-left: 61px;
+	margin-right: 133px;
+}
+#wrapper #content .maincontent .content1 .contentbox {
+	width: 250px;
+	height: 400px;
+	margin-left: 72px;
+	float: left;
+}
+#wrapper #content .maincontent .content1 .contentbox p {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+	text-align: center;
+}

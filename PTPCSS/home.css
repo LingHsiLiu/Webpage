@@ -1,0 +1,199 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/* anime */
+
+#wrapper #anime {
+	height: 390px;
+	width: 1160px;
+}
+
+img{margin: 0;padding: 0;border: 0; z-index:10;}
+#js_F{position: relative;top: 30px;left: 180px;overflow: hidden;width: 800px;height: 333px;background-attachment: scroll;background-image: url(../PTPImages/home-1.jpg);background-repeat: no-repeat;background-position: center top; z-index:10;
+}
+#js_F img{position: absolute;top: 0;left: 0;width: 800px;height: 333px; z-index:10;}
+#Picture121LYR { position:absolute; top:148px; left:0px; width:4px; height:1260px; z-index:10 }
+
+/* end anime */
+
+
+
+
+/* content  */
+
+#wrapper #content {
+	height: 850px;
+	width: 1160px;
+	
+}
+
+
+/* content content1    */
+
+#wrapper #content .content1 {
+	height: 210px;
+	width: 1160px;
+}
+#wrapper #content .content1 h2 {
+	font-size: 16px;
+	text-align: center;
+}
+#wrapper #content .content1 h4 {
+	font-size: 16px;
+	text-align: center;
+	color: #800000;
+}
+#wrapper #content .content1 h3 {
+	font-size: 16px;
+	text-align: center;
+}
+
+/* end content content1 */
+
+
+/* content content2   */
+
+#wrapper #content .content2 {
+	height: 300px;
+	width: 1160px;
+}
+
+#wrapper #content .content2 .contentleft {
+	float: left;
+	height: 300px;
+	width: 200px;
+}
+
+#wrapper #content .content2 .contentleft p {
+	padding-top: 35px;
+	padding-left: 10px;
+}
+
+#wrapper #content .content2 .contentmiddle {
+	float: left;
+	height: 300px;
+	width: 660px;
+}
+#wrapper #content .content2 .contentright {
+	float: right;
+	height: 300px;
+	width: 300px;
+}
+#wrapper #content .content2 .contentmiddle p {
+	font-size: 16px;
+	text-align: justify;
+	font-family: "Times New Roman", Times, serif;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-top: 15px;
+}
+
+
+#wrapper #content .content2 .contentright #contenttable {
+	height: 260px;
+	width: 260px;
+	padding-top: 10px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	display: table;
+}
+#wrapper #content .content2 .contentright #contenttable .contenttr .contenttd2 {
+	height: 35px;
+	width: 180px;
+	float: right;
+	padding-right: 0px;
+	text-align: left;
+	padding-bottom: 0px;
+	padding-left: 20px;
+	padding-top: 15px;
+	color: #800000;
+	display: table-cell;
+}
+
+#wrapper #content .content2 .contentright #contenttable .contenttr {
+	height: 50px;
+	width: 250px;
+	padding-top: 5px;
+	display: table-row;
+}
+#wrapper #content .content2 .contentright #contenttable .contenttr .contenttd1 p {
+	height: 50px;
+	width: 50px;
+}
+
+#wrapper #content .content2 .contentright #contenttable .contenttr .contenttd1 {
+	height: 50px;
+	width: 50px;
+	float: left;
+	display: table-cell;
+}
+#wrapper #content .content2 .contentright #contenttable .contenttr .contenttd3 {
+	height: 40px;
+	width: 180px;
+	float: right;
+	padding-top: 5px;
+	padding-left: 20px;
+	display: table-cell;
+}
+
+/* end content content2 */
+
+
+
+
+
+/* content content3    */
+#wrapper #content .content3 {
+	height: 340px;
+	width: 1160px;
+}
+
+#wrapper #content .content3 .contentleft {
+	float: left;
+	height: 340px;
+	width: 200px;
+}
+
+#wrapper #content .content3 .contentleft p {
+	padding-top: 35px;
+	padding-left: 10px;
+}
+
+#wrapper #content .content3 .contentright {
+	float: left;
+	height: 340px;
+	width: 960px;
+}
+
+#wrapper #content .content3 .contentright p {
+	width: 925px;
+	padding-right: 30px;
+	text-align: left;
+	padding-left: 5px;
+	font-family: "Times New Roman", Times, serif;
+}
+#wrapper #content .content3 .contentright #content3table {
+	display: table;
+	width: 900px;
+	padding-left: 5px;
+}
+#wrapper #content .content3 .contentright p1 {
+	padding-left: 5px;
+}
+#wrapper #content .content3 .contentright #content3table .content3tr {
+	display: table-row;
+	font-size: 16px;
+	width: 900px;
+}
+#wrapper #content .content3 .contentright #content3table .content3tr .content3td1 {
+	display: table-cell;
+	width: 250px;
+}
+#wrapper #content .content3 .contentright #content3table .content3tr .content3td2 {
+	width: 650px;
+	float: right;
+}
+
+/* end content content3 */

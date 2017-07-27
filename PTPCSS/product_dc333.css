@@ -1,0 +1,102 @@
+@charset "utf-8";
+/* CSS Document */
+
+#wrapper #topcontent {
+	height: 209px;
+	width: 1032px;
+	margin-top: 50px;
+	margin-left: 128px;
+}
+#wrapper #content {
+	height: 1200px;
+	width: 1160px;
+}
+#wrapper #content .maincontent {
+	height: 300px;
+	width: 1160px;
+}
+#wrapper #content .maincontent #content1 {
+	height: 40px;
+	width: 1027px;
+	text-align: left;
+	font-size: 24px;
+	color: #800000;
+	margin-left: 133px;
+}
+#wrapper #content .maincontent #content2 {
+	height: 250px;
+	width: 250px;
+	margin-left: 133px;
+	float: left;
+	position: relative;
+}
+#wrapper #content .maincontent #content3 {
+	height: 250px;
+	width: 727px;
+	float: left;
+	position: relative;
+}
+#wrapper #content .maincontent #content3 p1 {
+	font-size: 20px;
+	color: #800000;
+}
+#wrapper #content .maincontent #content4 {
+	width: 435px;
+	margin-left: 133px;
+	height: 260px;
+	float: left;
+}
+#wrapper #content .maincontent #content5 {
+	float: left;
+	height: 260px;
+	width: 592px;
+}
+#wrapper #content .maincontent .content6 {
+	width: 894px;
+	margin-right: 133px;
+	margin-left: 133px;
+	margin-top: 15px;
+	height: 285px;
+}
+#wrapper #content .maincontent .content7 {
+	width: 894px;
+	margin-right: 133px;
+	margin-left: 133px;
+	height: 280px;
+}
+#wrapper #content .maincontent .content7 .content8 {
+	height: 280px;
+	width: 300px;
+	float: left;
+}
+#wrapper #content .maincontent .content7 .content9 {
+	height: 280px;
+	width: 594px;
+	float: right;
+}
+#wrapper #content .maincontent .content7 .content9 p1 {
+	font-size: 18px;
+	color: #800000;
+	font-weight: bold;
+}
+#wrapper #content .maincontent .content7 .content8 p1 {
+	font-size: 18px;
+	color: #800000;
+	font-weight: bold;
+}
+#wrapper #content .maincontent .content6 p1 {
+	font-size: 16px;
+	font-weight: bold;
+	color: #800000;
+	margin-top: 10px;
+}
+#wrapper #content .maincontent #content2 img {
+	margin-top: 20px;
+	margin-left: 41px;
+}
+#wrapper #content .maincontent .content7 .content8 table {
+	margin-top: 30px;
+}
+#wrapper #content .maincontent #content3 table {
+	margin-top: 10px;
+}

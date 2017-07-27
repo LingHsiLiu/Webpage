@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+
+#wrapper #topcontent {
+	height: 195px;
+	width: 1160px;
+}
+#wrapper #topcontent .content1 {
+	height: 195px;
+	width: 250px;
+	margin-left: 133px;
+	float: left;
+	position: relative;
+}
+#wrapper #topcontent .content2 {
+	height: 155px;
+	width: 644px;
+	float: right;
+	margin-right: 133px;
+	margin-top: 40px;
+	position: relative;
+}
+#wrapper #content {
+	height: 850px;
+	width: 1160px;
+}
+#wrapper #maincontent {
+	height: 700px;
+	width: 1160px;
+}
+#wrapper #maincontent .content3 {
+	height: 700px;
+	width: 250px;
+	margin-left: 133px;
+	float: left;
+}
+#wrapper #maincontent .content4 {
+	float: right;
+	height: 700px;
+	width: 644px;
+	margin-right: 133px;
+	position: relative;
+}
+#wrapper #maincontent .content4 h1 {
+	font-size: 20px;
+	color: #800000;
+}
+#wrapper #topcontent .content2 p {
+	text-align: justify;
+}
+
+#wrapper #content .content5 {
+	float: left;
+	height: 850px;
+	width: 250px;
+	margin-left: 133px;
+	position: relative;
+}
+#wrapper #content .content6 {
+	height: 850px;
+	width: 644px;
+	margin-right: 133px;
+	float: right;
+	position: relative;
+}
+#wrapper #content .content6 h1 {
+	font-size: 20px;
+	color: #800000;
+}
+
+
+#wrapper #content .content6 p {
+	text-align: justify;
+}
+#wrapper #maincontent .content3 .techimage1 {
+	margin-top: 50px;
+	margin-left: 45px;
+}
